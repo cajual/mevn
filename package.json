@@ -1,0 +1,22 @@
+{
+  "name": "mevn",
+  "version": "1.0.0",
+  "description": "Simple MEVN stack test application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cajual/mevn.git"
+  },
+  "keywords": [
+    "mevn"
+  ],
+  "author": "Ryan Gibbons <cajstyle@gmail.com> (https://cajstyle.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cajual/mevn/issues"
+  },
+  "homepage": "https://github.com/cajual/mevn#readme"
+}
